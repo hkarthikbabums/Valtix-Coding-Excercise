@@ -20,12 +20,15 @@ The repository contains all the details/code to solve the Valtix coding execerci
 
 Code executed:  Memory needs to be allocated is 3000
 
-<img width="612" alt="Screenshot 2022-11-19 at 12 56 19 AM" src="https://user-images.githubusercontent.com/118561751/202786390-00e6e1c8-24c2-4d5e-9d6a-1d4d19146244.png">
+<img width="602" alt="Screenshot 2022-11-19 at 1 08 08 AM" src="https://user-images.githubusercontent.com/118561751/202788259-19602f34-34f7-4838-919f-0c79634f2b93.png">
+
 
 
 2, Allocate memory 2500
    - This will not split the nodes - since m1 and m2 added will result in 2500 so no split is needed
    - The M3 will become the new head of the linked list after successful memory allocation
 
-<img width="589" alt="Screenshot 2022-11-19 at 12 56 52 AM" src="https://user-images.githubusercontent.com/118561751/202786467-a4dfd389-296d-491d-9fbc-a930893b5a96.png">
+Code executed:  Memory needs to be allocated is 2500
+
+<img width="593" alt="Screenshot 2022-11-19 at 1 08 22 AM" src="https://user-images.githubusercontent.com/118561751/202788302-87ed9332-2f52-4efa-abc5-ce9cbb838b40.png">
 
