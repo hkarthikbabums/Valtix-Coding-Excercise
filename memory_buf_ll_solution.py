@@ -1,4 +1,4 @@
-i
+
 # Node class
 class Node():
 
@@ -112,16 +112,19 @@ ll.add("M1",1000)
 ll.printhead()
 
 # Print the entire linked list with the data and memory allocated associated with it
+print("The initial LL after the initial node and memory allocation done")
 ll.print()
 
 # Verify if the needed memory can be allocated or split the node with the needed memory accordingly
-ll.mem_split(3000)
+ll.mem_split(2500)
 
 # Print the entire linked list
+print("Print the LL with the new added split node")
 ll.print()
 
 # After split verify if we are able to allocate the needed memory from the linked list nodes
-ll.allocate_mem(3000)
+ll.allocate_mem(2500)
 
 # Print the new linked list
+print("The new LL after allocation done successfully")
 ll.print()
